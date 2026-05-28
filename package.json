@@ -1,0 +1,7 @@
+{
+  "name": "lizhen-watermark-assets",
+  "private": true,
+  "scripts": {
+    "generate:assets": "npm run generate --prefix tools/watermark-assets"
+  }
+}
