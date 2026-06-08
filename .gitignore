@@ -1,0 +1,5 @@
+node_modules/
+tools/watermark-assets/node_modules/
+
+# 生成产物，本地 npm run generate:assets 后产出
+assets/watermark-removal/
